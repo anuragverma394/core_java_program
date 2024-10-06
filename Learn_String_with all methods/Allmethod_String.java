@@ -34,6 +34,7 @@ public class Allmethod_String {
         System.out.println("string str convert from JAVA to = " +str2);
         System.out.println("length of the given  string is = "+s);
         System.out.println(s1);
+        
     }
     
 }
